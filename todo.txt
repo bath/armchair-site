@@ -1,0 +1,10 @@
+1. change icon
+2. change sidebar color
+3. site scheme?
+4. austin github info?
+5. make first posts
+6. fill out site with basic content
+    6.1 talk with austin about description, headline, overall branding
+    6.2 about section
+7. change readme.md
+8. remove / hide categories / chop down the theme to what we need for now
