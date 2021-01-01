@@ -10,5 +10,4 @@ order: 4
 # MIT License
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Welcome to Armchair Investing, we are happy to have you here and spending some of your valuable time to read our thoughts. If you want to learn more about us, see our introduction post [here](https://bath.github.io/armchair-site/posts/introduction-post/).

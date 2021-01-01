@@ -1,6 +1,6 @@
 ---
 title: Armchair Introduction
-date: 2021-01-01 03:00:00 -0600
+date: 2021-01-01 15:00:00 -0600
 categories: [Finance, General]
 tags: [Introduction]     # TAG names should always be lowercase
 pin: true
