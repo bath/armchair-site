@@ -16,6 +16,8 @@ Hello, My name is Miller Bath. As with Austin, I have graduated from the Univers
 We will soon publish our first blog post about how a young adult can and should save their limited money.
 
 Thanks and we look forward to hearing from you soon,
+
 The Armchair Team
+
 
 
